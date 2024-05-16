@@ -33,3 +33,9 @@ Example
     pg.join()
 
 .. _xonsh: http://xon.sh/
+
+
+See also
+--------
+
+* `duct.py <https://github.com/oconnor663/duct.py>`_ with `gotchas <https://github.com/oconnor663/duct.py/blob/master/gotchas.md>`_ - a library for running child processes.
